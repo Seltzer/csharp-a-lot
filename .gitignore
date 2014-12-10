@@ -1,0 +1,22 @@
+# General
+*.tmp
+
+# Ignore VS / compiler stuff
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+*.suo
+*.user
+*.vspscc
+*.vssscc
+
+# Ignore NuGet stuff
+packages
+
+# Ignore emacs temp files
+.#*
+
+# Logs
+*.log
